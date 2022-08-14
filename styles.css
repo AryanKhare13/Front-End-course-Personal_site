@@ -1,0 +1,108 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+img {
+    width: 200px;
+}
+
+
+
+/* Navbar section */
+
+.container-fluid {
+    background-color: #FFB3B3;
+    /* font-weight: 700; */
+    font-size: 1.3rem;
+}
+
+#TEXT {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #100720;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+
+/* Title section */
+#Title {
+    background-color: #C1EFFF;
+}
+
+.myimage {
+    width: 350px;
+    border-radius: 100%;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.quote_text {
+    margin: 0% 0% 0% 10%;
+    text-align: left;
+    font-size: 1.5rem;
+    color: #3330E4;
+}
+
+/* About section */
+#about {
+    padding: 5% 50% 1% 2%;
+    background-color: #FFE9AE;
+    font-size: 1.4rem
+}
+
+.abouthead {
+    font-weight: 700;
+}
+
+
+
+/* education section */
+#Education {
+    padding: 7% 2% 1% 50%;
+    background-color: #FFE9AE;
+    font-size: 1.4rem
+}
+
+.eduhead {
+    font-weight: 700;
+}
+
+/* Skills section */
+#Skills {
+    padding: 7% 50% 1% 2%;
+    background-color: #FFE9AE;
+    font-size: 1.4rem;
+}
+
+.Skillshead {
+    font-weight: 700;
+}
+
+.guitar_p {
+    margin-left: 100px;
+}
+
+
+/* hobbies section */
+#myhobbies {
+    background-color: #7A4495;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.hobbieshead {
+    font-weight: 700;
+}
+
+
+
+
+
+/* Contact section */
+#contact {
+    padding: 3% 10%;
+    text-align: center;
+}
